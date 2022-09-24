@@ -7,7 +7,7 @@ class Calc:
         return self.a + self.b
 
     def substaction(self):
-        return abs(self.a - self.b)
+        return self.a - self.b
 
     def multiplication(self):
         return self.a * self.b 
